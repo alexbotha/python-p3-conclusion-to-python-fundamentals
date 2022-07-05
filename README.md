@@ -2,8 +2,27 @@
 
 ## Learning Goals
 
-- Understand how to learn a new programming language
-- Learn the benefits and philosophy of Python as a language
+- Understand how to learn a new programming language.
+- Learn the benefits and philosophy of Python as a language.
+
+***
+
+## Key Vocab
+
+- **Interpreter**: a program that executes other programs. Python programs
+require the Python interpreter to be installed on your computer so that they
+can be run.
+- **Python Shell**: an interactive interpreter that can be accessed from the
+command line.
+- **Data Type**: a specific kind of data. The Python interpreter uses these
+types to determine which actions can be performed on different data items.
+- **Exception**: a type of error that can be predicted and handled without
+causing a program to crash.
+- **Code Block**: a collection of code that is interpreted together. Python
+groups code blocks by indentation level.
+- **Function**: a named code block that performs a sequence of actions when it
+is called.
+- **Scope**: the area in your program where a specific variable can be called.
 
 ***
 
