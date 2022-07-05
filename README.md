@@ -5,6 +5,8 @@
 - Understand how to learn a new programming language
 - Learn the benefits and philosophy of Python as a language
 
+***
+
 ## Conclusion
 
 You've learned a lot in this first module of Phase 3:
@@ -20,6 +22,8 @@ benefits as well. Your new knowledge of the fundamentals of Python programming
 will allow you to create powerful applications that work closely with the data
 on your computer (as well as other servers and databases!) to accomplish almost
 any task you can imagine.
+
+***
 
 ## Resources
 
