@@ -33,7 +33,7 @@ You've learned a lot in this first module of Phase 3:
 - How to execute code using the Python shell.
 - Python's many data types.
 - Common errors and Exceptions in Python.
-- How Python handles sccope and organizes code blocks using indentation.
+- How Python handles scope and organizes code blocks using indentation.
 - How to control flow using functions, conditionals, and loops.
 
 Python shares many similarities with JavaScript, but it presents many added
